@@ -1,0 +1,1 @@
+print("Starting the preparation from Today.i.e. 2nd July 2025")
